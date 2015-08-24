@@ -1,0 +1,7 @@
+{
+    "name": "dkraczkowski/wa-test",
+    "require": {
+        "php": ">=5.4.0",
+        "zendframework/zendframework": "2.3.*"
+    }
+}
